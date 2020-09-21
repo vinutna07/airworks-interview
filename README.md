@@ -1,4 +1,4 @@
 To get started developing right away:
  
-install all project dependencies with `npm install` <br/>
-start the development server with `npm start`
+* Install all project dependencies with `npm install` <br/>
+* Start the development server with `npm start`
